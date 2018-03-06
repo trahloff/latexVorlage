@@ -1,5 +1,5 @@
 $out_dir = "output";
-@default_files = ("dokumentation.tex");
+@default_files = ("main.tex");
 
 $pdf_mode = 1;
 $dvi_mode = 0;

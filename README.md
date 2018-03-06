@@ -33,7 +33,7 @@ Wenn kein latexmk installiert werden kann oder soll, stellt das makefile auch di
 * **images/** - enthält Bilder und Logos
 	* **images/logo.png** - Logo der Firma auf Deckblatt.
 * **einstellungen.tex** - hier werden z.B. die Pflichtangaben auf dem Deckblatt geändert
-* **dokumentation.tex** - die Hauptdatei, die alles andere einbindet
+* **main.tex** - die Hauptdatei, die alles andere einbindet
 * **bibliographie.bib** - Einträge der Bibliographie
 * **latexmkrc** - die Regeln, nach denen latexmk das Dokument baut
 
